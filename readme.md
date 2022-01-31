@@ -2,6 +2,9 @@
 ## Maximum Tune 6 Car Save File Editor
 ### Created by Damon Murdoch ([@SirScrubbington](https://twitter.com/SirScrubbington))
 
+# THIS REPOSITORY HAS BEEN SUPERCEDED BY:
+https://github.com/damon-murdoch/wmmt-car-editor
+
 ## Description
 This application is a save file editor
 for maximum tune 6, which works for both
